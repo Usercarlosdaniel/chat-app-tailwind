@@ -21,7 +21,8 @@ const config: Config = {
         "light-violet":"hsl(264, 100%, 61%)",
       },
       boxShadow: {
-        "rightMessage": "-2px 5px 10px #00000022"
+        "rightMessage": "-2px 5px 10px #00000022",
+        "cellphone": "0 10px 30px #00000055"
       }
     },
   },

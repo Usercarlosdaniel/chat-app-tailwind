@@ -16,7 +16,7 @@ import Radio from "./radio";
 
 const CellPhone: React.FC = () => {
   return (
-    <div className="bg-white max-w-96 mx-auto p-4 rounded-3xl">
+    <div className="bg-white max-w-96 mx-auto p-4 rounded-3xl relative z-10 shadow-cellphone">
       <div className="bg-light-grayish-violet rounded-t-3xl rounded-b-3xl">
         <div className="bg-gradient-to-r from-light-violet to-light-magenta rounded-t-3xl rounded-b-md">
           <div className="bg-white w-1/2 h-6 rounded-b-3xl mx-auto"></div>
